@@ -1,4 +1,6 @@
 # Customised Python Calculator 
+
+## Fraser O' Regan Smith
 ### Fit for purpose 
 
 #### Design breif:
