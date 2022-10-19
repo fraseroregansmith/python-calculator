@@ -5,4 +5,4 @@
 
 #### Design breif:
 Calculator is designed for primary school students
-quite light & bright colours used, because primary school students don't want it blain and boring. i also used 4 differnet colours for that reason. 
+quite light & bright colours used, because primary school students don't want it blain and boring. i also used 4 colours for that exact reason
